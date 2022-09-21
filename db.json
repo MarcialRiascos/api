@@ -5,9 +5,7 @@
         "categoria": "rapido",
         "contacto": "example.com",
         "picture": {
-          "large": "https://randomuser.me/api/portraits/men/30.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+          "large": "https://randomuser.me/api/portraits/men/30.jpg"
         },
         "nat": "NO"
       },
@@ -16,9 +14,7 @@
         "categoria": "lento",
         "contacto": "example.es",
         "picture": {
-          "large": "https://randomuser.me/api/portraits/men/30.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
+          "large": "https://randomuser.me/api/portraits/men/30.jpg"
         },
         "nat": "NO"
       }
