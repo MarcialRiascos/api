@@ -3,19 +3,22 @@
       {
         "nombre": "male",
         "categoria": "rapido",
-        "contacto": "3164652701",
+        "contacto": "example.com",
         "picture": {
-            "large": "https://randomuser.me/api/portraits/men/30.jpg"
+          "large": "https://randomuser.me/api/portraits/men/30.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
         },
-         
         "nat": "NO"
       },
       {
         "nombre": "female",
         "categoria": "lento",
-        "contacto": "3164652702",
+        "contacto": "example.es",
         "picture": {
-          "large": "https://randomuser.me/api/portraits/men/30.jpg"
+          "large": "https://randomuser.me/api/portraits/men/30.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/30.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/30.jpg"
         },
         "nat": "NO"
       }
