@@ -2,18 +2,20 @@
     "results": [
       {
         "nombre": "ZTECA'S FOOD",
-        "categoria": "CENTRO DE B/TURA",
-        "contacto": "3174214501",
-        "picture": {
+        "zona": "CENTRO DE B/TURA",
+        "llamadas": "3174214501",
+        "whatsapp": "3174214501",
+        "imagen": {
           "large": "https://randomuser.me/api/portraits/men/30.jpg"
         },
         "nat": "NO"
       },
       {
-        "nombre": "female",
-        "categoria": "lento",
-        "contacto": "3174214502",
-        "picture": {
+        "nombre": "Otro",
+        "zona": "yes,
+        "llamadas": "3174214505",
+        "whatsapp": "3174214507",
+        "imagen": {
           "large": "https://randomuser.me/api/portraits/men/30.jpg"
         },
         "nat": "NO"
