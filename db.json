@@ -122,13 +122,24 @@
         "nat": "NO"
       },
       {
-        "nombre": "LA COLITATRUCK",
+        "nombre": "LA COLITA TRUCK",
         "zona": "CENTRO B/TURA",
         "llamadas": "3175704856",
         "whatsapp": "3175704856",
         "web": "https://bit.ly/3dO7NAO",
         "imagen": {
           "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305391476_203056435412483_965098277218896278_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_ohc=t8foeQwcessAX9EKhAd&_nc_ht=scontent.feoh2-1.fna&oh=00_AT8i02LG2WHmPRf5WB3mveOad7xwpLQ1juAYuYLIAoZMCQ&oe=63348802"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "LA CUARENTENA",
+        "zona": "CENTRO B/TURA",
+        "llamadas": "3155478591",
+        "whatsapp": "3155478591",
+        "web": "hhttps://bit.ly/3CaGg6h",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/308842585_203056632079130_1983067005311519635_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0debeb&_nc_ohc=DeCrzDv-ZToAX9kQamk&tn=osNYJNzDiwgrx_er&_nc_ht=scontent.feoh2-1.fna&oh=00_AT8GZPRrSvh57PjTnvqAah9rWdpB2kchXDy_ktQf4sCVXw&oe=63357EBA"
         },
         "nat": "NO"
       }
