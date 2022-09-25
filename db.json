@@ -22,7 +22,7 @@
         },
         "nat": "NO"
       },
-         {
+      {
         "nombre": "CHIMICHURRI",
         "zona": "INDEPENDENCIA",
         "llamadas": "3136200644",
@@ -30,6 +30,17 @@
         "web": "",
         "imagen": {
           "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/306726371_203056395412487_7021040768426600062_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_ohc=hCHPP1LhPn0AX9blrKq&tn=osNYJNzDiwgrx_er&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-sEOKcXJGjktNifYGhLzzrJFhJNU84ydhM34Go8E1BNg&oe=63357A97"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "CHIMICHURY",
+        "zona": "VIVA B/TURA",
+        "llamadas": "3206524543",
+        "whatsapp": "3206524543",
+        "web": "https://bit.ly/3DOe76d",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305396148_203056375412489_1509269211586155259_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_ohc=phCuuLvK4RwAX-7WQSC&_nc_ht=scontent.feoh2-1.fna&oh=00_AT_Hg69O6C8vDcc_8uNkqMQq6Kp6yle-YKIwCxAuTwviDA&oe=6334BC0D"
         },
         "nat": "NO"
       }
