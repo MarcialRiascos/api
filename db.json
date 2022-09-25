@@ -110,7 +110,7 @@
         },
         "nat": "NO"
       },
-     {
+      {
         "nombre": "RAPIDAS JEÑOS",
         "zona": "GRAN COLOMBIANA",
         "llamadas": "3172126588",
@@ -118,6 +118,17 @@
         "web": "https://bit.ly/3SaNlJC",
         "imagen": {
           "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/309001960_203056582079135_1519429126238665946_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=pZqKfn4BjkUAX-bSCfc&_nc_ht=scontent.feoh2-1.fna&oh=00_AT8D4D9W3nJhST_pwIPHBQKlPOJl0qwEIncbOxw1uBI0LA&oe=63353EB5"
+        },
+        "nat": "NO"
+      },
+      {
+        "nombre": "LA COLITATRUCK",
+        "zona": "CENTRO B/TURA",
+        "llamadas": "3175704856",
+        "whatsapp": "3175704856",
+        "web": "https://bit.ly/3dO7NAO",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305391476_203056435412483_965098277218896278_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=0debeb&_nc_ohc=t8foeQwcessAX9EKhAd&_nc_ht=scontent.feoh2-1.fna&oh=00_AT8i02LG2WHmPRf5WB3mveOad7xwpLQ1juAYuYLIAoZMCQ&oe=63348802"
         },
         "nat": "NO"
       }
