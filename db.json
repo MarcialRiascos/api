@@ -170,11 +170,22 @@
         "zona": "INDEPENDENCIA",
         "llamadas": "3168505085",
         "whatsapp": "3168505085",
-        "web": "hthttps://bit.ly/3C8L3Fh",
+        "web": "https://bit.ly/3C8L3Fh",
         "imagen": {
           "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/308916379_203056605412466_8955428716646659279_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=kOZHeyIRLQcAX_cPIsb&_nc_ht=scontent.feoh2-1.fna&oh=00_AT9o2ETR6Pjf3PCym-av6jw4dK_HuF45N0Yx4pCWttVp2g&oe=6335A29A"
         },
         "nat": "NO"
-      }
+      },
+      {
+        "nombre": "MAXI PAPAS",
+        "zona": "",
+        "llamadas": "3153707630",
+        "whatsapp": "3153707630",
+        "web": "https://bit.ly/3dC6bdD",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/306319110_203056675412459_4295586454244553064_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_ohc=mgEs7f0Wxf4AX81JtmG&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-jN-v2RrUMjxZV18ZzomVhvZwKhdDCcmkilSMOiWSaPA&oe=633568D7"
+        },
+        "nat": "NO"
+       }
     ]
   }
