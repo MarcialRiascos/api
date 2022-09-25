@@ -178,7 +178,7 @@
       },
       {
         "nombre": "MAXI PAPAS",
-        "zona": "",
+        "zona": "INDEPENDENCIA",
         "llamadas": "3153707630",
         "whatsapp": "3153707630",
         "web": "https://bit.ly/3dC6bdD",
@@ -195,6 +195,17 @@
         "web": "",
         "imagen": {
           "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/308963114_203056698745790_1199956884030097295_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=OAvMeRtZCBwAX_PBJTY&_nc_ht=scontent.feoh2-1.fna&oh=00_AT8IKLXDXOYAknPKzNeJSceVuEwj0ocOLeA9Y0T_feS6sQ&oe=6335BCCA"
+        },
+        "nat": "NO"
+       },
+       {
+        "nombre": "SALCHI ADICIONALES",
+        "zona": "",
+        "llamadas": "3167485948",
+        "whatsapp": "3167485948",
+        "web": "https://bit.ly/3C80D3K",
+        "imagen": {
+          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/306142869_203056722079121_4144117698902385385_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=0debeb&_nc_ohc=bUurCESdwZQAX9jaR9u&_nc_ht=scontent.feoh2-1.fna&oh=00_AT_wNONj-QDv1EfiYkyyYJQF-aLfcWtIwVwa1dpA1bcccQ&oe=6334738E"
         },
         "nat": "NO"
        }
