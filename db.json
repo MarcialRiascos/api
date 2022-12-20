@@ -132,50 +132,6 @@
         },
         "nat": "NO"
       },
-     {
-        "nombre": "LA SEXTA",
-        "zona": "CENTRO B/TURA",
-        "llamadas": "3143147151",
-        "whatsapp": "3143147151",
-        "web": "https://bit.ly/3C83ppE",
-        "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/308916379_203056605412466_8955428716646659279_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=0debeb&_nc_ohc=kOZHeyIRLQcAX_cPIsb&_nc_ht=scontent.feoh2-1.fna&oh=00_AT9o2ETR6Pjf3PCym-av6jw4dK_HuF45N0Yx4pCWttVp2g&oe=6335A29A"
-        },
-        "nat": "NO"
-      },
-      {
-        "nombre": "PUNTO G",
-        "zona": "INDEPENDENCIA",
-        "llamadas": "3158028516",
-        "whatsapp": "3158028516",
-        "web": "",
-        "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/308963114_203056698745790_1199956884030097295_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0debeb&_nc_ohc=OAvMeRtZCBwAX_PBJTY&_nc_ht=scontent.feoh2-1.fna&oh=00_AT8IKLXDXOYAknPKzNeJSceVuEwj0ocOLeA9Y0T_feS6sQ&oe=6335BCCA"
-        },
-        "nat": "NO"
-      },
-      {
-        "nombre": "SALCHIRICURAS",
-        "zona": "CENTRO B/TURA",
-        "llamadas": "3234869634",
-        "whatsapp": "3234869634",
-        "web": "https://bit.ly/3DTn2D9",
-        "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/305753194_203056745412452_5438153058681014449_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=0debeb&_nc_ohc=u2Cj1-7ViLQAX-e_zWO&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-FyGfvgba7NsBqJmS4GQm5blbHfWxMTznVzhQE0jMaTw&oe=6334BFE9"
-        },
-        "nat": "NO"
-      },
-      {
-        "nombre": "SALCHIRICURAS",
-        "zona": "VIVA B/TURA",
-        "llamadas": "3157470831",
-        "whatsapp": "3157470831",
-        "web": "https://bit.ly/3CbHUEM",
-        "imagen": {
-          "large": "https://scontent.feoh2-1.fna.fbcdn.net/v/t39.30808-6/304841239_203056762079117_4716917431200147255_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=0debeb&_nc_ohc=pvunBXIhb7oAX_fI-fd&_nc_ht=scontent.feoh2-1.fna&oh=00_AT-6bDFtF1EcM3DEh7gXqBrTEYJ-AfO1QvJ00IzCp8y0jA&oe=6335352A"
-        },
-        "nat": "NO"
-      },
       {
         "nombre": "TANAS FOOD",
         "zona": "14 DE JULIO",
